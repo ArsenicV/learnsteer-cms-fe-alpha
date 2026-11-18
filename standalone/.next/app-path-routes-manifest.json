@@ -1,0 +1,18 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/members/page": "/admin/members",
+  "/admin/page": "/admin",
+  "/admin/roles/page": "/admin/roles",
+  "/api/strapi/[...path]/route": "/api/strapi/[...path]",
+  "/approvals/page": "/approvals",
+  "/favicon.ico/route": "/favicon.ico",
+  "/help/page": "/help",
+  "/login/page": "/login",
+  "/notes/new/page": "/notes/new",
+  "/notes/voice/new/page": "/notes/voice/new",
+  "/notifications/page": "/notifications",
+  "/page": "/",
+  "/profile/page": "/profile",
+  "/sample-notes/page": "/sample-notes"
+}

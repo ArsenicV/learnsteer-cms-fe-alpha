@@ -1,0 +1,18 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/members/page": "app/admin/members/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/roles/page": "app/admin/roles/page.js",
+  "/api/strapi/[...path]/route": "app/api/strapi/[...path]/route.js",
+  "/approvals/page": "app/approvals/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/help/page": "app/help/page.js",
+  "/login/page": "app/login/page.js",
+  "/notes/new/page": "app/notes/new/page.js",
+  "/notes/voice/new/page": "app/notes/voice/new/page.js",
+  "/notifications/page": "app/notifications/page.js",
+  "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/sample-notes/page": "app/sample-notes/page.js"
+}

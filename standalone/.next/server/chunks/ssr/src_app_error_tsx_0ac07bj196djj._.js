@@ -1,0 +1,3 @@
+module.exports=[23953,a=>{"use strict";var b=a.i(87924),c=a.i(72131);a.i(11909);var d=a.i(99570),e=a.i(79834);a.s(["default",0,function({error:a,reset:f}){return(0,c.useEffect)(()=>{console.error(a)},[a]),(0,b.jsxs)("div",{children:[(0,b.jsx)("h1",{className:"mb-6 text-2xl font-semibold",children:"Something went wrong"}),(0,b.jsx)(e.f,{title:"This page couldn't load",description:"Your notes and settings are safe. Try loading it again — if the problem persists, give it a minute and come back.",action:(0,b.jsx)(d.f,{onClick:f,children:"Try again"})})]})}])}];
+
+//# sourceMappingURL=src_app_error_tsx_0ac07bj196djj._.js.map

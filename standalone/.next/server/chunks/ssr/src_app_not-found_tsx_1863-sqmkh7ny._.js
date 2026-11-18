@@ -1,0 +1,3 @@
+module.exports=[3363,a=>{"use strict";var b=a.i(7997),c=a.i(95936);a.i(66005);var d=a.i(93911);a.s(["default",0,function(){return(0,b.jsx)(d.f,{title:"Page not found",description:"That page doesn't exist or has moved. Your dashboard, notes, and actions are all still one tap away.",action:(0,b.jsx)(c.default,{href:"/",className:"inline-flex h-11 items-center rounded-[var(--radius)] bg-accent px-4 text-sm font-medium text-accent-foreground transition-soft hover:brightness-110",children:"Go to dashboard"})})}])},17537,function(a){a.n(a.i(3363))}];
+
+//# sourceMappingURL=src_app_not-found_tsx_1863-sqmkh7ny._.js.map

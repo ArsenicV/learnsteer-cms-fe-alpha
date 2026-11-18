@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+8:"/_next/static/chunks/2p-l2bextvymc.js"
+9:I[39756,["$8"],"default"]
+a:I[37457,["$8"],"default"]
+e:I[22016,["$8"],""]
+f:I[97367,["$8"],"OutletBoundary"]
+13:"ViewportBoundary"
+14:I[97367,["$8"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$8"],"$15"]
+17:I[27201,["$8"],"IconMark"]
+:HL["/_next/static/chunks/43mb0a4w_f5q8.css","style"]
+5:X
+5:C
+6:X
+6:300
+6:C
+c:X
+c:C
+12:X
+12:C
+d:[["children",{"s":"__PAGE__","h":162,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"rounded-[var(--radius)] border border-border bg-surface p-4 sm:p-5 flex flex-col items-center gap-2 py-10 text-center","children":[["$","h2",null,{"className":"text-base font-medium text-text-primary","children":"Page not found"}],["$","p",null,{"className":"max-w-sm text-sm leading-6 text-text-muted","children":"That page doesn't exist or has moved. Your dashboard, notes, and actions are all still one tap away."}],["$","div",null,{"className":"mt-3","children":["$","$Le",null,{"href":"/","className":"inline-flex h-11 items-center rounded-[var(--radius)] bg-accent px-4 text-sm font-medium text-accent-foreground transition-soft hover:brightness-110","children":"Go to dashboard"}]}]]}],null,["$","$Lf",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":"$12","s":"$6"}}]]
+7:[["children",{"s":"/_not-found","h":98,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@b","v":"$c","s":"$6"},"c":"$Qd"}]]
+19:X
+19:C
+1c:X
+1c:C
+0:{"t":{"t":{"s":"","h":82,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/43mb0a4w_f5q8.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2p-l2bextvymc.js","async":true}]],["$","html",null,{"lang":"en","className":"T19VSG_variable _8Li5zG_variable h-full antialiased dark","children":["$","body",null,{"className":"min-h-full bg-background text-text-primary","children":["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen bg-background"}],"children":"$L3"}]}]}]]}],"p":"$@4","v":"$5","s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"color-scheme","content":"dark"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$2",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"LearnSteer 2.0 CMS Dashboard"}],["$","meta","1",{"name":"description","content":"Data-entry dashboard for learning notes (Strapi-backed)."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L17","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":"$19","s":"$6"}},"a":"$@1a","u":"$@1b","b":"8GyMZag2oJxhPIhAEA914","r":"$1c"}
+10:null
+1b:true
+1a:null
+b:"$undefined"
+18:"$undefined"
+11:"$undefined"

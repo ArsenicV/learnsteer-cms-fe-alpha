@@ -1,0 +1,25 @@
+{
+  "node": {
+    "409e1116373d12bbabac5ee3531e8e3009ccbb0514": {
+      "workers": {
+        "app/page": {
+          "moduleId": 66944,
+          "async": false
+        }
+      },
+      "exportedName": "submitNoteAction",
+      "filename": "src/app/notes/actions.ts"
+    },
+    "4065d779efed257638a8df71de92a30b4ac5777ca9": {
+      "workers": {
+        "app/page": {
+          "moduleId": 66944,
+          "async": false
+        }
+      },
+      "exportedName": "toggleNoteHiddenAction",
+      "filename": "src/app/approvals/actions.ts"
+    }
+  },
+  "edge": {}
+}
